@@ -1,6 +1,6 @@
 Name:		texlive-context-annotation
 Version:	47085
-Release:	1
+Release:	2
 Summary:	Annotate text blocks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/context-annotation
