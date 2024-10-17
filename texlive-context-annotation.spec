@@ -3,7 +3,7 @@ Version:	47085
 Release:	2
 Summary:	Annotate text blocks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/context-annotation
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/context-annotation
 License:	gpl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/context-annotation.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/context-annotation.doc.r%{version}.tar.xz
